@@ -3,7 +3,7 @@
   <groupId>io.carrotquest</groupId>
   <artifactId>android-sdk</artifactId>
   <versioning>
-    <release>1.0.29.15_test_zoom_sdk-usRelease</release>
+    <release>1.0.29.16_test_zoom_sdk-usRelease</release>
     <versions>
       <version>1.0.26-commonDebug</version>
       <version>1.0.26-commonRelease</version>
@@ -77,7 +77,11 @@
       <version>1.0.29.15_test_zoom_sdk-commonRelease</version>
       <version>1.0.29.15_test_zoom_sdk-usDebug</version>
       <version>1.0.29.15_test_zoom_sdk-usRelease</version>
+      <version>1.0.29.16_test_zoom_sdk-commonDebug</version>
+      <version>1.0.29.16_test_zoom_sdk-commonRelease</version>
+      <version>1.0.29.16_test_zoom_sdk-usDebug</version>
+      <version>1.0.29.16_test_zoom_sdk-usRelease</version>
     </versions>
-    <lastUpdated>20200507115912</lastUpdated>
+    <lastUpdated>20200507121850</lastUpdated>
   </versioning>
 </metadata>
