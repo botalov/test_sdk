@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>io.carrotquest</groupId>
   <artifactId>android-sdk</artifactId>
-  <version>1.0.29-usDebug</version>
+  <version>1.0.29-commonRelease</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
@@ -430,7 +430,7 @@
     <dependency>
       <groupId>io.carrotquest</groupId>
       <artifactId>cqandroid-lib</artifactId>
-      <version>1.0.18-usRelease</version>
+      <version>1.0.18-commonRelease</version>
       <scope>runtime</scope>
       <exclusions>
         <exclusion>
@@ -442,7 +442,7 @@
     <dependency>
       <groupId>io.carrotquest</groupId>
       <artifactId>image-picker</artifactId>
-      <version>1.0.8-usRelease</version>
+      <version>1.0.8-commonRelease</version>
       <scope>runtime</scope>
       <exclusions>
         <exclusion>
