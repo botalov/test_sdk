@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>io.carrotquest</groupId>
   <artifactId>cqandroid-lib</artifactId>
-  <version>1.0.19_test_2-usRelease</version>
+  <version>1.0.20-usRelease</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
