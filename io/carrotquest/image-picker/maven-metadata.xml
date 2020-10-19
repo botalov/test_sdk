@@ -3,7 +3,7 @@
   <groupId>io.carrotquest</groupId>
   <artifactId>image-picker</artifactId>
   <versioning>
-    <release>1.0.6-usRelease</release>
+    <release>1.0.14_support_libraries-usRelease</release>
     <versions>
       <version>1.0.0-debug</version>
       <version>1.0.0-release</version>
@@ -23,7 +23,45 @@
       <version>1.0.6-commonRelease</version>
       <version>1.0.6-usDebug</version>
       <version>1.0.6-usRelease</version>
+      <version>1.0.7-commonDebug</version>
+      <version>1.0.7-commonRelease</version>
+      <version>1.0.8-commonDebug</version>
+      <version>1.0.8-commonRelease</version>
+      <version>1.0.8-usDebug</version>
+      <version>1.0.8-usRelease</version>
+      <version>1.0.9-commonDebug</version>
+      <version>1.0.9-commonRelease</version>
+      <version>1.0.9-usDebug</version>
+      <version>1.0.9-usRelease</version>
+      <version>1.0.10-commonDebug</version>
+      <version>1.0.10-commonRelease</version>
+      <version>1.0.10-usDebug</version>
+      <version>1.0.10-usRelease</version>
+      <version>1.0.11-commonDebug</version>
+      <version>1.0.11-commonRelease</version>
+      <version>1.0.11-usDebug</version>
+      <version>1.0.11-usRelease</version>
+      <version>1.0.12-commonDebug</version>
+      <version>1.0.12-commonRelease</version>
+      <version>1.0.12-usDebug</version>
+      <version>1.0.12-usRelease</version>
+      <version>1.0.13-commonDebug</version>
+      <version>1.0.13-commonRelease</version>
+      <version>1.0.13-usDebug</version>
+      <version>1.0.13-usRelease</version>
+      <version>1.0.12_support_libraries-commonDebug</version>
+      <version>1.0.12_support_libraries-commonRelease</version>
+      <version>1.0.12_support_libraries-usDebug</version>
+      <version>1.0.12_support_libraries-usRelease</version>
+      <version>1.0.13_support_libraries-commonDebug</version>
+      <version>1.0.13_support_libraries-commonRelease</version>
+      <version>1.0.13_support_libraries-usDebug</version>
+      <version>1.0.13_support_libraries-usRelease</version>
+      <version>1.0.14_support_libraries-commonDebug</version>
+      <version>1.0.14_support_libraries-commonRelease</version>
+      <version>1.0.14_support_libraries-usDebug</version>
+      <version>1.0.14_support_libraries-usRelease</version>
     </versions>
-    <lastUpdated>20200205094948</lastUpdated>
+    <lastUpdated>20201019064946</lastUpdated>
   </versioning>
 </metadata>
